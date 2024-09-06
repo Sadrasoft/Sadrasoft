@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sadrasoft
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on Pouya karimpour
-- 📫 How to reach me Telegram
+- 📫 Reach me on Telegram
 
 
 
