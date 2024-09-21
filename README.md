@@ -48,4 +48,4 @@ GPA: 3.6/4.0
 Feel free to reach out if you want to collaborate on projects or discuss ideas in biomedical informatics and healthcare technology!
 
 ---
-⭐️ From [SadraYazdani](https://github.com/SadraYazdani)
+⭐️ From [SadraYazdani](https://github.com/Sadrasoft)
