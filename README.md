@@ -14,7 +14,6 @@ I'm a Health Information Technology student at Tabriz University of Medical Scie
 - **Programming:** Python, SQL, R
 - **Data Analysis & Visualization:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Tableau
 - **Machine Learning:** PyTorch, TensorFlow, Keras
-- **Biomedical Informatics:** UMLS, SNOMED CT, HL7 FHIR
 - **Other:** Git, Linux
 
 ## 🚀 Projects
